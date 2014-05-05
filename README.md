@@ -3,4 +3,7 @@ Funkzellenuebersicht
 
 WLAN Standorte der Universität Münster
 
-Source: [https://www.nic.uni-muenster.de/Funkzellenuebersicht.asp]
+Sources & Tools:
+ 
+* WLANs: [NIC_online](https://www.nic.uni-muenster.de/Funkzellenuebersicht.asp)
+* Geocoding: Google Maps API via [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/)
